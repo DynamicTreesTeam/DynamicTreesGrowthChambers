@@ -1,0 +1,11 @@
+air = build.blockState("minecraft:air");
+frameBlock = build.blockState("minecraft:light_gray_concrete");
+platBlock = build.blockState("minecraft:polished_andesite");
+ventBlock = build.blockState("minecraft:gray_concrete");
+wallBlock = build.blockState("minecraft:quartz_pillar");
+floorBlock = build.blockState("minecraft:polished_granite");
+dirt = build.blockState("minecraft:dirt");
+stone = build.blockState("minecraft:stone");
+sandstone =  build.blockState("minecraft:sandstone");
+hazardBlock = build.blockState("minecraft:yellow_concrete");
+emeraldBlock = build.blockState("minecraft:emerald_block");
