@@ -250,7 +250,7 @@ end
 function treeFilename()
   local mod = mods[currModIdx];
   local spc = trees[mod][currSpeciesIdx];
-  return mod .. "-" .. spc;
+  return mod .. "/" .. spc .. ".txt";
 end
  
  
